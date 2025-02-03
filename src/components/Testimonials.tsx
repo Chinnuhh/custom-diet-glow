@@ -3,17 +3,17 @@ import { Star } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Sarah Johnson",
+    name: "Sravani",
     text: "The personalized diet plan helped me manage my thyroid condition naturally. I feel more energetic than ever!",
     rating: 5
   },
   {
-    name: "Michael Chen",
+    name: "Jesh",
     text: "Thanks to Chandra's holistic approach, I've not only lost weight but also improved my blood pressure levels.",
     rating: 5
   },
   {
-    name: "Priya Sharma",
+    name: "Lalitha",
     text: "The combination of diet planning and therapy has transformed my relationship with food. Highly recommended!",
     rating: 5
   }
