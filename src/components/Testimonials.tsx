@@ -4,7 +4,7 @@ import { Star } from "lucide-react";
 const testimonials = [
   {
     name: "Sravani",
-    text: "The personalized diet plan helped me manage my thyroid condition naturally. I feel more energetic than ever!",
+    text: "After following the diet plan, I've successfully lost weight and my vitamin levels have improved significantly. I'm feeling healthier than ever!",
     rating: 5
   },
   {
@@ -13,7 +13,7 @@ const testimonials = [
     rating: 5
   },
   {
-    name: "Lalitha",
+    name: "Sudheer",
     text: "The combination of diet planning and therapy has transformed my relationship with food. Highly recommended!",
     rating: 5
   }
